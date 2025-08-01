@@ -34,7 +34,7 @@ A modern, responsive image uploader built with Next.js 15, TypeScript, and Image
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/getparas/uploady
 cd uploady
 ```
 
@@ -120,34 +120,10 @@ Uploads an image file to ImageKit.
 - File size must be ≤ 10MB
 - Filename is sanitized for security
 
-## Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Add your environment variables in the Vercel dashboard
-4. Deploy!
-
-### Other Platforms
-
-Make sure to set the environment variables in your deployment platform:
-- `IMAGEKIT_PUBLIC_KEY`
-- `IMAGEKIT_PRIVATE_KEY` 
-- `IMAGEKIT_URL_ENDPOINT`
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ## Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/your-username/uploady/issues) on GitHub.
+If you encounter any issues or have questions, please [open an issue](https://github.com/getparas/uploady/issues) on GitHub.
