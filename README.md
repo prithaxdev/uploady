@@ -12,16 +12,6 @@ A modern, responsive image uploader built with Next.js 15, TypeScript, and Image
 - 🎨 Modern UI with Tailwind CSS and shadcn/ui
 - ☁️ ImageKit integration for optimized image delivery
 
-## Tech Stack
-
-- **Framework**: Next.js 15 with App Router
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS v4
-- **UI Components**: shadcn/ui
-- **Image Service**: ImageKit
-- **Icons**: Lucide React
-- **Notifications**: Sonner
-
 ## Getting Started
 
 ### Prerequisites
@@ -34,7 +24,7 @@ A modern, responsive image uploader built with Next.js 15, TypeScript, and Image
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/getparas/uploady
+git clone https://github.com/prithaxdev/uploady
 cd uploady
 ```
 
